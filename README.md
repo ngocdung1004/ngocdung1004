@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=WKY5olZZi3GUh2nF2IFRGUwpGeV2elFznXr3Jkytn_M)](https://www.linkedin.com/in/ngocdungse/)
 <h1 align="center">Hi 👋, I'm Nguyen Ngoc Dung</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
