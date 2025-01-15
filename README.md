@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C Language, Java, C#**
 
-- 📫 How to reach me **nguyenngocdung100420032k3@gmail.com**
+- 📫 How to reach me **dungnn104.work@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
